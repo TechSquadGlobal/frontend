@@ -38,7 +38,7 @@
     "hash-base": "^3.0.4",
     "intl-tel-input": "^17.0.3",
     "is-buffer": "^2.0.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.18.1",
     "ng2-animate-on-scroll": "^2.2.1",
     "ngx-bootstrap": "^6.2.0",
     "ngx-intl-tel-input": "^3.0.5",
